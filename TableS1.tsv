@@ -1,88 +1,88 @@
-Metabolism	Function / Type	Gene	Origin	File name	Cutoff score type	Cutoff score	E-value cutoff	Length cutoff (aa)
-aerobic respiration	cytochrome (quinone) oxidase, aa3 type	QoxA	TIGRFAM	TIGR01432.hmm	NC built-in			
-aerobic respiration	cytochrome (quinone) oxidase, aa3 type	QoxB	TIGRFAM	TIGR02882.hmm	NC built-in			
-aerobic respiration	Cytochrome bd ubiquinol oxidase	cytochrome ubiquinol oxidase subunit I (cydA)	PFAM	PF01654.hmm	Domain	25	1e-20	210
-aerobic respiration	Cytochrome bd ubiquinol oxidase	cytochrome ubiquinol oxidase subunit I (cydB)	TIGRFAM	TIGR00203.hmm	NC built-in			
-aerobic respiration	Cytochrome c oxidase	Cytochrome c oxidase, caa3-type (coxA)	TIGRFAM	TIGR02891.hmm	NC built-in			
-aerobic respiration	Cytochrome c oxidase	Cytochrome c oxidase, caa3-type (coxB)	TIGRFAM	TIGR02866.hmm	NC built-in			
-aerobic respiration	Cytochrome c oxidase, cbb3-type	Cytochrome c oxidase, cbb3-type (ccoN)	TIGRFAM	TIGR00780.hmm	NC built-in			
-aerobic respiration	Cytochrome c oxidase, cbb3-type	Cytochrome c oxidase, cbb3-type (ccoO)	TIGRFAM	TIGR00781.hmm	NC built-in			
-aerobic respiration	Cytochrome c oxidase, cbb3-type	Cytochrome c oxidase, cbb3-type (ccoP)	TIGRFAM	TIGR00782.hmm	NC built-in			
-aerobic respiration	Cytochrome o ubiquinol oxidase	Cytochrome quinone oxidase, bo3 type (cyoA)	TIGRFAM	TIGR01433.hmm	NC built-in			
-aerobic respiration	Cytochrome o ubiquinol oxidase	Cytochrome quinone oxidase, bo3 type (cyoD)	TIGRFAM	TIGR02847.hmm	NC built-in			
-aerobic respiration	Oxidation of CO to CO2 under aerobic conditions	coxL	TIGRFAM	TIGR02416.hmm	NC built-in			
-aerobic respiration	Oxidation of CO to CO2 under aerobic conditions	coxM	Custom (Anantharaman et al. 2018)	carbon_monoxide_dehydrogenase_coxM.hmm	Total	184	1e-20	150
-aerobic respiration	Oxidation of CO to CO2 under aerobic conditions	coxS	Custom (Anantharaman et al. 2018)	carbon_monoxide_dehydrogenase_coxS.hmm	Total	130	1e-20	80
-Arsenic	Arsenite oxidation	aoxA	TIGRFAM	TIGR02694.hmm	NC built-in			
-Arsenic	Arsenite oxidation	aoxB	TIGRFAM	TIGR02693.hmm	NC built-in			
-Arsenic	Arsenite reduction	"	arsenate reductase, glutathione/glutaredoxin type, arsC"	TIGRFAM	TIGR02689.hmm	NC built-in			
-Arsenic	Arsenite reduction	arsC (glutaredoxin)	TIGRFAM	TIGR00014.hmm	NC built-in			
-C1 compounds	Formaldehyde oxidation	fae-hps	TIGRFAM	TIGR03126.hmm	NC built-in			
-C1 compounds	Formaldehyde oxidation	methenyltetrahydromethanopterin cyclohydrolase	TIGRFAM	TIGR03120.hmm	NC built-in			
-C1 compounds	Formaldehyde oxidation	S-(hydroxymethyl)glutathione dehydrogenase	TIGRFAM	TIGR02818.hmm	NC built-in			
-C1 compounds	Formaldehyde oxidation	S-(hydroxymethyl)mycothiol dehydrogenase	TIGRFAM	TIGR03451.hmm	NC built-in			
-C1 compounds	Formaldehyde oxidation	S-formylglutathione hydrolase	TIGRFAM	TIGR02821.hmm	NC built-in			
-C1 compounds	Mathanol oxidation	NDMA-dependent methanol dehydrogenase EC 1.1.1.244	TIGRFAM	TIGR04266.hmm	NC built-in			
-C1 compounds	Methane metabolism	mauA	Kofam	K15228.hmm	Total	86.96		
-C1 compounds	Methane metabolism	mauB	Kofam	K15229.hmm	Total	271.93		
-C1 compounds	Methane metabolism	qhpA	Kofam	K08685.hmm	Total	435.83		
-C1 compounds	Methane oxidation, methanotroph	mdh1_mxaF	Custom (Anantharaman et al. 2018)	methanol_dehydrogenase_pqq_xoxF_mxaF.hmm	Domain	550	1e-20	300
-C1 compounds	Methane oxidation, methanotroph	mmoB	PFAM	PF02406.hmm	Total	22	1e-20	80
-C1 compounds	Methane oxidation, methanotroph	mmoD	TIGRFAM	TIGR04550.hmm	NC built-in			
-C1 compounds	Methanogenesis	mcr alpha	TIGRFAM	TIGR03256.hmm	NC built-in			
-C1 compounds	Methanogenesis	mcr beta	TIGRFAM	TIGR03257.hmm	NC built-in			
-C1 compounds	Methanogenesis	mcr gamma	TIGRFAM	TIGR03259.hmm	NC built-in			
-C1 compounds	Methanogenesis CO2	ftr	TIGRFAM	TIGR03119.hmm	NC built-in			
-Carbon fixation	3HP-4HB	4-hydroxybutyryl-CoA-dehydratase	Custom (Anantharaman et al. 2018)	Four-hydroxybutyryl-CoA-dehydratase.hmm			1e-20	280
-Carbon fixation	3HP-4HB	4-hydroxybutyryl-CoA-synthetase	Kofam	K18593.hmm	Total	1233.23		
-Carbon fixation	3HP/3HP-4HB	propionyl-CoA-synthase	Kofam	K15018.hmm	Total	1311.9		
-Carbon fixation	Calvin non-phototrophic	rubisco_form_I	Custom (Anantharaman et al. 2018)	rubisco_form_I.hmm	Total	500	1e-20	220
-Carbon fixation	Calvin non-phototrophic	rubisco_form_II	Custom (Anantharaman et al. 2018)	rubisco_form_II.hmm	Total	500	1e-20	220
-Carbon fixation	Reductive TCA	aclA	Custom (Anantharaman et al. 2018)	ATP_citrate_lyase_aclA.hmm	Total	215	1e-20	300
-Carbon fixation	Reductive TCA	aclB	Custom (Anantharaman et al. 2018)	ATP_citrate_lyase_aclB.hmm	Total	177	1e-20	200
-Carbon fixation	Wood-Ljungdahl pathway	codhC	Kofam	K14138.hmm	Total	930.4		
-Carbon fixation	Wood-Ljungdahl pathway	codhD	TIGRFAM	TIGR00381.hmm	NC built-in			
-Carbon fixation	Wood-Ljungdahl pathway	fdhA	TIGRFAM	TIGR01591.hmm	NC built-in			
-Carbon fixation	Wood-Ljungdahl pathway	fdhB	TIGRFAM	TIGR01582.hmm	NC built-in			
-Iron	Metal (Iron/Manganese) oxidation/reduction	mtrA	TIGRFAM	TIGR03507.hmm	NC built-in			
-Iron	Metal (Iron/Manganese) oxidation/reduction	mtrC	TIGRFAM	TIGR03509.hmm	NC built-in			
-Nitrogen	Anammox	hzoA	Custom (Anantharaman et al. 2018)	hydrazine_oxidase_hzoA.hmm	Total	325	1e-20	160
-Nitrogen	Anammox	hzsA	Custom (Anantharaman et al. 2018)	hydrazine_synthase_hzsA.hmm	Total	466	1e-20	400
-Nitrogen	Anammox	nirS	Custom (Anantharaman et al. 2018)	nitrite_reductase_nirS.hmm	Domain	200	1e-20	280
-Nitrogen	Denitrification	nirK	TIGRFAM	TIGR02376.hmm	NC built-in			
-Nitrogen	Denitrification	norB	Custom (Anantharaman et al. 2018)	nitric_oxide_reductase_norB.hmm	Total	80	1e-20	230
-Nitrogen	Denitrification	norC	Custom (Anantharaman et al. 2018)	nitric_oxide_reductase_norC.hmm	Domain	50	1e-20	75
-Nitrogen	Denitrification	nosZ	TIGRFAM	TIGR04246.hmm	NC built-in			
-Nitrogen	Dissimilatory nitrate reduction	napA	TIGRFAM	TIGR01706.hmm	NC built-in			
-Nitrogen	Dissimilatory nitrate reduction	napB	PFAM	PF03892.hmm	Total	25	1e-20	80
-Nitrogen	Dissimilatory nitrate reduction	narG	TIGRFAM	TIGR01580.hmm	NC built-in			
-Nitrogen	Dissimilatory nitrate reduction	narH	TIGRFAM	TIGR01660.hmm	NC built-in			
-Nitrogen	Dissimilatory nitrate reduction	nirB	TIGRFAM	TIGR02374.hmm	NC built-in			
-Nitrogen	Dissimilatory nitrate reduction	nirD	TIGRFAM	TIGR02378.hmm	NC built-in			
-Nitrogen	Dissimilatory nitrate reduction	nrfH	TIGRFAM	TIGR03153.hmm	NC built-in			
-Nitrogen	Nitrification	pmoA-amoA	Kofam	K10944.hmm	Total	192.77		
-Nitrogen	Nitrification	pmoB-amoB	Kofam	K10945.hmm	Total	161.43		
-Nitrogen	Nitrification	pmoC-amoC	Kofam	K10946.hmm	Total	152.7		
-Nitrogen	Nitrification-comammox	nxrA	Custom (Anantharaman et al. 2018)	nitrite_oxidoreductase_nxrA.hmm	Total	350	1e-20	500
-Nitrogen	Nitrification-comammox	nxrB	Custom (Anantharaman et al. 2018)	nitrite_oxidoreductase_nxrB.hmm	Domain	250	1e-20	200
-Nitrogen	Nitrogen Fixation	nifD	TIGRFAM	TIGR01282.hmm	NC built-in			
-Nitrogen	Nitrogen Fixation	nifH	TIGRFAM	TIGR01287.hmm	NC built-in			
-Nitrogen	Nitrogen Fixation	nifK	TIGRFAM	TIGR01286.hmm	NC built-in			
-Nitrogen	Nitrous oxide reduction	nosD	TIGRFAM	TIGR04247.hmm	NC built-in			
-Selenate	Selenate reduction	srdA	Custom	srdA.hmm	Total	768	1e-20	500
-Sulfur	Dissimilatory sulfate reduction and sulfide oxidation	aprA	TIGRFAM	TIGR02061.hmm	NC built-in			
-Sulfur	Dissimilatory sulfate reduction and sulfide oxidation	dsrA	TIGRFAM	TIGR02064.hmm	NC built-in			
-Sulfur	Dissimilatory sulfate reduction and sulfide oxidation	dsrB	TIGRFAM	TIGR02066.hmm	NC built-in			
-Sulfur	Dissimilatory sulfate reduction and sulfide oxidation	dsrD	PFAM	PF08679.hmm	Total	50	1e-20	30
-Sulfur	Dissimilatory sulfate reduction and sulfide oxidation	sat	TIGRFAM	TIGR00339.hmm	NC built-in			
-Sulfur	Sulfate reduction	asrA	TIGRFAM	TIGR02910.hmm	NC built-in			
-Sulfur	Sulfate reduction	asrB	TIGRFAM	TIGR02911.hmm	NC built-in			
-Sulfur	Sulfate reduction	asrC	TIGRFAM	TIGR02912.hmm	NC built-in			
-Sulfur	Sulfide oxidation	fcc	Kofam	K17230.hmm	Domain	89.1		
-Sulfur	Sulfide oxidation	sdo	Custom (Anantharaman et al. 2018)	sulfur_dioxygenase_sdo.hmm	Total	170	1e-20	110
-Sulfur	Sulfide oxidation	sqr	Custom (Anantharaman et al. 2018)	sulfide_quinone_oxidoreductase_sqr.hmm	Total	270	1e-20	200
-Sulfur	Thiosulfate Oxidation	soxB	TIGRFAM	TIGR04486.hmm	NC built-in			
-Sulfur	Thiosulfate Oxidation	soxC	TIGRFAM	TIGR04555.hmm	NC built-in			
-Sulfur	Thiosulfate Oxidation	soxD	Kofam	K22622.hmm	Domain	133.73		
-Sulfur	Thiosulfate Oxidation	soxY	TIGRFAM	TIGR04488.hmm	NC built-in			
-Sulfur	Thiosulfate reduction	phsA	Kofam	K08352.hmm	Total	516.13		
+Metabolism	General Function	Gene symbol	Gene name / Function	Origin	HMM File name	Cutoff score type	Cutoff score	E-value cutoff	Length cutoff (aa)
+aerobic respiration	Oxygen as electron acceptor	qoxA	Cytochrome aa3 quinol oxidase, subunit II	TIGRFAM	TIGR01432	NC built-in			
+aerobic respiration	Oxygen as electron acceptor	qoxB	Cytochrome aa3 quinol oxidase, subunit I	TIGRFAM	TIGR02882	NC built-in			
+aerobic respiration	Oxygen as electron acceptor	cydA	Cytochrome bd terminal oxidase subunit I	PFAM	PF01654	Domain	25	1e-20	210
+aerobic respiration	Oxygen as electron acceptor	cydB	Cytochrome d ubiquinol oxidase, subunit II	TIGRFAM	TIGR00203	NC built-in			
+aerobic respiration	Oxygen as electron acceptor	coxA	Cytochrome c oxidase, subunit I	TIGRFAM	TIGR02891	NC built-in			
+aerobic respiration	Oxygen as electron acceptor	coxB	Cytochrome c oxidase, subunit II	TIGRFAM	TIGR02866	NC built-in			
+aerobic respiration	Oxygen as electron acceptor	ccoN	Cytochrome c oxidase, cbb3-type, subunit I	TIGRFAM	TIGR00780	NC built-in			
+aerobic respiration	Oxygen as electron acceptor	ccoO	Cytochrome c oxidase, cbb3-type, subunit II	TIGRFAM	TIGR00781	NC built-in			
+aerobic respiration	Oxygen as electron acceptor	ccoP	Cytochrome c oxidase, cbb3-type, subunit III	TIGRFAM	TIGR00782	NC built-in			
+aerobic respiration	Oxygen as electron acceptor	cyoA	Ubiquinol oxidase, subunit II	TIGRFAM	TIGR01433	NC built-in			
+aerobic respiration	Oxygen as electron acceptor	cyoD	Cytochrome o ubiquinol oxidase subunit IV	TIGRFAM	TIGR02847	NC built-in			
+aerobic respiration	Oxidation of CO to CO2 under aerobic conditions	coxL	Carbon-monoxide dehydrogenase, large subunit	TIGRFAM	TIGR02416	NC built-in			
+aerobic respiration	Oxidation of CO to CO2 under aerobic conditions	coxM	Carbon-monoxide dehydrogenase, medium subunit	Custom (Anantharaman et al. 2018)	carbon_monoxide_dehydrogenase_coxM	Total	184	1e-20	150
+aerobic respiration	Oxidation of CO to CO2 under aerobic conditions	coxS	Carbon-monoxide dehydrogenase, small  subunit	Custom (Anantharaman et al. 2018)	carbon_monoxide_dehydrogenase_coxS	Total	130	1e-20	80
+C1 compounds	Formaldehyde oxidation	fae-hps	Formaldehyde-activating enzyme	TIGRFAM	TIGR03126	NC built-in			
+C1 compounds	Formaldehyde oxidation	mch	Methenyltetrahydromethanopterin cyclohydrolase	TIGRFAM	TIGR03120	NC built-in			
+C1 compounds	Formaldehyde oxidation	frmS	S-(hydroxymethyl)glutathione dehydrogenase	TIGRFAM	TIGR02818	NC built-in			
+C1 compounds	Formaldehyde oxidation	S-(hydroxymethyl)mycothiol dehydrogenase	S-(hydroxymethyl)mycothiol dehydrogenase	TIGRFAM	TIGR03451	NC built-in			
+C1 compounds	Formaldehyde oxidation	fghA	S-formylglutathione hydrolase	TIGRFAM	TIGR02821	NC built-in			
+C1 compounds	Mathanol oxidation	mdo	NDMA-dependent methanol dehydrogenase	TIGRFAM	TIGR04266	NC built-in			
+C1 compounds	Methane metabolism	mauA	Methylamine dehydrogenase light chain	Kofam	K15228	Total	86.96		
+C1 compounds	Methane metabolism	mauB	Methylamine dehydrogenase heavy chain	Kofam	K15229	Total	271.93		
+C1 compounds	Methane metabolism	qhpA	Quinohemoprotein amine dehydrogenase	Kofam	K08685	Total	435.83		
+C1 compounds	Methane oxidation, methanotroph	mdh1_mxaF	Methanol dehydrogenase Pyrroloquinoline quinone	Custom (Anantharaman et al. 2018)	methanol_dehydrogenase_pqq_xoxF_mxaF	Domain	550	1e-20	300
+C1 compounds	Methane oxidation, methanotroph	mmoB	Methane monooxygenase regulatory protein B	PFAM	PF02406	Total	22	1e-20	80
+C1 compounds	Methane oxidation, methanotroph	mmoD	Soluble methane monooxygenase-binding protein MmoD	TIGRFAM	TIGR04550	NC built-in			
+C1 compounds	Methanogenesis	mcrA	Methyl-coenzyme M reductase, alpha subunit	TIGRFAM	TIGR03256	NC built-in			
+C1 compounds	Methanogenesis	mcrB	Methyl-coenzyme M reductase, beta subunit	TIGRFAM	TIGR03257	NC built-in			
+C1 compounds	Methanogenesis	mcrG	Methyl-coenzyme M reductase, gamma subunit	TIGRFAM	TIGR03259	NC built-in			
+C1 compounds	Methanogenesis CO2	fhcD	Formylmethanofuran--tetrahydromethanopterin N-formyltransferase	TIGRFAM	TIGR03119	NC built-in			
+Carbon fixation	3HP-4HB	abfD	4-hydroxybutyryl-CoA-dehydratase	Custom (Anantharaman et al. 2018)	Four-hydroxybutyryl-CoA-dehydratase			1e-20	280
+Carbon fixation	3HP-4HB	4-hydroxybutyryl-CoA-synthetase	4-hydroxybutyryl-CoA-synthetase	Kofam	K18593	Total	1233.23		
+Carbon fixation	3HP/3HP-4HB	propionyl-CoA-synthase	Propionyl-CoA-synthase	Kofam	K15018	Total	1311.9		
+Carbon fixation	Calvin non-phototrophic	rubisco form I	Rubisco form I	Custom (Anantharaman et al. 2018)	rubisco_form_I	Total	500	1e-20	220
+Carbon fixation	Calvin non-phototrophic	rubisco form II	Rubisco form II	Custom (Anantharaman et al. 2018)	rubisco_form_II	Total	500	1e-20	220
+Carbon fixation	Reductive TCA	aclA	ATP citrate lyase A	Custom (Anantharaman et al. 2018)	ATP_citrate_lyase_aclA	Total	215	1e-20	300
+Carbon fixation	Reductive TCA	aclB	ATP citrate lyase B	Custom (Anantharaman et al. 2018)	ATP_citrate_lyase_aclB	Total	177	1e-20	200
+Carbon fixation	Wood-Ljungdahl pathway	codhC	CO dehydrogenase/acetyl-CoA synthase, beta subunit	Kofam	K14138	Total	930.4		
+Carbon fixation	Wood-Ljungdahl pathway	codhD	CO dehydrogenase/acetyl-CoA synthase, delta subunit	TIGRFAM	TIGR00381	NC built-in			
+Carbon fixation	Wood-Ljungdahl pathway	fdhA	Formate dehydrogenase, alpha subunit	TIGRFAM	TIGR01591	NC built-in			
+Carbon fixation	Wood-Ljungdahl pathway	fdhB	Formate dehydrogenase, beta subunit	TIGRFAM	TIGR01582	NC built-in			
+Iron	Metal (Iron/Manganese) oxidation/reduction	mtrC	Decaheme c-type cytochrome	TIGRFAM	TIGR03507	NC built-in			
+Iron	Metal (Iron/Manganese) oxidation/reduction	mtrB	Decaheme c-type cytochrome	TIGRFAM	TIGR03509	NC built-in			
+Nitrogen	Anammox	hzo	Hydrazine oxidase	Custom (Anantharaman et al. 2018)	hydrazine_oxidase_hzoA	Total	325	1e-20	160
+Nitrogen	Anammox	hzs	Hydrazine synthase	Custom (Anantharaman et al. 2018)	hydrazine_synthase_hzsA	Total	466	1e-20	400
+Nitrogen	Anammox	nirS	Nitrite reductase	Custom (Anantharaman et al. 2018)	nitrite_reductase_nirS	Domain	200	1e-20	280
+Nitrogen	Denitrification	nirK	Nitrite reductase, copper-containing	TIGRFAM	TIGR02376	NC built-in			
+Nitrogen	Denitrification	norB	Nitric oxide reductase subunit B	Custom (Anantharaman et al. 2018)	nitric_oxide_reductase_norB	Total	80	1e-20	230
+Nitrogen	Denitrification	norC	Nitric oxide reductase subunit C	Custom (Anantharaman et al. 2018)	nitric_oxide_reductase_norC	Domain	50	1e-20	75
+Nitrogen	Denitrification	nosZ	Nitrous-oxide reductase, Sec-dependent	TIGRFAM	TIGR04246	NC built-in			
+Nitrogen	Dissimilatory nitrate reduction	napA	Periplasmic nitrate reductase, large subunit	TIGRFAM	TIGR01706	NC built-in			
+Nitrogen	Dissimilatory nitrate reduction	napB	Periplasmic nitrate reductase, diheme cytochrome c subunit	PFAM	PF03892	Total	25	1e-20	80
+Nitrogen	Dissimilatory nitrate reduction	narG	Nitrate reductase, alpha subunit	TIGRFAM	TIGR01580	NC built-in			
+Nitrogen	Dissimilatory nitrate reduction	narH	Nitrate reductase, beta subunit	TIGRFAM	TIGR01660	NC built-in			
+Nitrogen	Dissimilatory nitrate reduction	nirB	Nitrite reductase [NAD(P)H], large subunit	TIGRFAM	TIGR02374	NC built-in			
+Nitrogen	Dissimilatory nitrate reduction	nirD	Nitrite reductase [NAD(P)H], small subunit	TIGRFAM	TIGR02378	NC built-in			
+Nitrogen	Dissimilatory nitrate reduction	nrfH	Cytochrome c nitrite reductase, small subunit	TIGRFAM	TIGR03153	NC built-in			
+Nitrogen	Nitrification	pmoA-amoA	Methane/ammonia monooxygenase subunit A	Kofam	K10944	Total	192.77		
+Nitrogen	Nitrification	pmoB-amoB	Methane/ammonia monooxygenase subunit B	Kofam	K10945	Total	161.43		
+Nitrogen	Nitrification	pmoC-amoC	Methane/ammonia monooxygenase subunit C	Kofam	K10946	Total	152.7		
+Nitrogen	Nitrification-comammox	nxrA	Nitrite oxidoreductase alpha subunit	Custom (Anantharaman et al. 2018)	nitrite_oxidoreductase_nxrA	Total	350	1e-20	500
+Nitrogen	Nitrification-comammox	nxrB	Nitrite oxidoreductase beta subunit	Custom (Anantharaman et al. 2018)	nitrite_oxidoreductase_nxrB	Domain	250	1e-20	200
+Nitrogen	Nitrogen Fixation	nifD	Nitrogenase molybdenum-iron protein alpha chain	TIGRFAM	TIGR01282	NC built-in			
+Nitrogen	Nitrogen Fixation	nifH	Nitrogenase iron protein	TIGRFAM	TIGR01287	NC built-in			
+Nitrogen	Nitrogen Fixation	nifK	Nitrogenase molybdenum-iron protein beta chain	TIGRFAM	TIGR01286	NC built-in			
+Nitrogen	Nitrous oxide reduction	nosD	Nitrous oxide reductase family maturation protein	TIGRFAM	TIGR04247	NC built-in			
+Sulfur	Dissimilatory sulfate reduction and sulfide oxidation	aprA	Adenylylsulfate reductase, alpha subunit	TIGRFAM	TIGR02061	NC built-in			
+Sulfur	Dissimilatory sulfate reduction and sulfide oxidation	dsrA	Sulfite reductase alpha subunit	TIGRFAM	TIGR02064	NC built-in			
+Sulfur	Dissimilatory sulfate reduction and sulfide oxidation	dsrB	Sulfite reductase beta subunit	TIGRFAM	TIGR02066	NC built-in			
+Sulfur	Dissimilatory sulfate reduction	dsrD	Dissimilatory sulfite reductase D	PFAM	PF08679	Total	50	1e-20	30
+Sulfur	Dissimilatory sulfate reduction and sulfide oxidation	sat	Sulfate adenylyltransferase	TIGRFAM	TIGR00339	NC built-in			
+Sulfur	Sulfate reduction	asrA	Sulfite reductase, subunit A	TIGRFAM	TIGR02910	NC built-in			
+Sulfur	Sulfate reduction	asrB	Sulfite reductase, subunit B	TIGRFAM	TIGR02911	NC built-in			
+Sulfur	Sulfate reduction	asrC	Sulfite reductase, subunit C	TIGRFAM	TIGR02912	NC built-in			
+Sulfur	Sulfide oxidation	fcc	Flavocytochrome c sulfide de­hydrogenase	Kofam	K17230	Domain	89.1		
+Sulfur	Sulfide oxidation	sdo	Sulfur dioxygenase	Custom (Anantharaman et al. 2018)	sulfur_dioxygenase_sdo	Total	170	1e-20	110
+Sulfur	Sulfide oxidation	sqr	Sulfide quinone oxidoreductase	Custom (Anantharaman et al. 2018)	sulfide_quinone_oxidoreductase_sqr	Total	270	1e-20	200
+Sulfur	Thiosulfate Oxidation	soxB	Thiosulfohydrolase SoxB	TIGRFAM	TIGR04486	NC built-in			
+Sulfur	Thiosulfate Oxidation	soxC	Sulfite dehydrogenase	TIGRFAM	TIGR04555	NC built-in			
+Sulfur	Thiosulfate Oxidation	soxD	S-disulfanyl-L-cysteine oxidoreductase	Kofam	K22622	Domain	133.73		
+Sulfur	Thiosulfate Oxidation	soxY	Ahiosulfate oxidation carrier protein SoxY	TIGRFAM	TIGR04488	NC built-in			
+Sulfur	Thiosulfate reduction	phsA	Ahiosulfate reductase / polysulfide reductase chain A	Kofam	K08352	Total	516.13		
+Arsenic	Arsenite oxidation	aoxA	Arsenite oxidase, small subunit	TIGRFAM	TIGR02694	NC built-in			
+Arsenic	Arsenite oxidation	aoxB	Arsenite oxidase, large subunit	TIGRFAM	TIGR02693	NC built-in			
+Arsenic	Arsenite reduction	arsC( glutathione/glutaredoxin type)	Arsenate reductase, glutathione/glutaredoxin type, arsC	TIGRFAM	TIGR02689	NC built-in			
+Arsenic	Arsenite reduction	arsC (glutaredoxin)	ArsC (glutaredoxin)	TIGRFAM	TIGR00014	NC built-in			
+Selenate	Selenate reduction	srdA	Selenate reductase subunit A	Custom	srdA	Total	768	1e-20	500
